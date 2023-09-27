@@ -5,8 +5,7 @@ This Python script automates a daily security test using Nmap. It scans a specif
 ## Features
 
 - Automated daily security scans using Nmap.
-- Results saved to a file with the current date.
-- Email alerts sent in case of changes in the scan results.
+- Results saved to a file with the current date and time.
 
 ## Prerequisites
 
