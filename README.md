@@ -26,7 +26,7 @@ The script is set to run once in every hour. You can customize the schedule by m
 
 ### Put in the IP Address
 
-You need to put in the IP address you want to run the scan on. You can do that by modifying the `target_ip = "78.142.210.15"` line in the script.
+You need to put in the IP address you want to run the scan on. You can do that by modifying the `target_ip = "X.X.X.X"` line in the script.
 
 2. Run the script:
 
