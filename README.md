@@ -30,7 +30,7 @@ You need to put in the IP address you want to run the scan on. You can do that b
 
 2. Run the script:
 
-> python nmap-scan-automation.py
+> python nmap_scan_automation.py
 
 The script will run an Nmap scan, save the results to a file named with the current date and time.
 
